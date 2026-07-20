@@ -1,0 +1,36 @@
+# Quartus
+db/
+incremental_db/
+simulation/
+output_files/
+
+# Temporary files
+*.bak
+*.tmp
+*.log
+*.jou
+*.rpt
+*.qws
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Waveforms
+*.vcd
+*.wlf
+*.vwf
+
+# Generated binaries
+*.sof
+*.pof
+*.rbf
+*.hex
+*.mif
+
+# Python cache
+__pycache__/
